@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         
-        <p>P tag in App.jsx</p>
+        <p>testing the react app</p>
         
       </div>
     );
